@@ -1,11 +1,11 @@
 # Skill2Career — AI-Powered Career Path & Personalized Learning Navigator
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.7+-blue.svg)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-18.3+-61dafb.svg)](https://reactjs.org/)
 [![Vite](https://img.shields.io/badge/Vite-6.0+-646cff.svg)](https://vitejs.dev/)
 [![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-3.4+-38bdf8.svg)](https://tailwindcss.com/)
 [![Vitest](https://img.shields.io/badge/Vitest-2.1+-green.svg)](https://vitest.dev/)
+[![License](https://img.shields.io/badge/License-Proprietary-red.svg)](#license)
 
 **Skill2Career** is an enterprise-grade intelligent career guidance and personalized learning recommendation platform. It analyzes education degrees, existing competencies, interests, and strengths to produce mathematically calibrated career matches, visual skill gap breakdowns, adaptive learning roadmaps, curated regional language video courses (**Telugu, Hindi, Tamil, Kannada, English**), portfolio projects, company hiring guides, and mock interview preparation.
 
@@ -170,5 +170,6 @@ All test suites verify:
 
 ## 📄 License
 
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+Proprietary Software — All Rights Reserved.  
+Copyright © 2026 Skill2Career Platform. Unauthorized copying, distribution, or reproduction of this repository and its source code is strictly prohibited.
 
